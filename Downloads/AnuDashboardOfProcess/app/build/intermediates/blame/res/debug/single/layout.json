@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "/home/anu/Downloads/QSystemInfo/app/build/intermediates/res/merged/debug/layout/sensor_item.xml",
+        "source": "/home/anu/Downloads/QSystemInfo/app/src/main/res/layout/sensor_item.xml"
+    },
+    {
+        "merged": "/home/anu/Downloads/QSystemInfo/app/build/intermediates/res/merged/debug/layout/past_proc_list.xml",
+        "source": "/home/anu/Downloads/QSystemInfo/app/src/main/res/layout/past_proc_list.xml"
+    },
+    {
+        "merged": "/home/anu/Downloads/QSystemInfo/app/build/intermediates/res/merged/debug/layout/proc_lst_view.xml",
+        "source": "/home/anu/Downloads/QSystemInfo/app/src/main/res/layout/proc_lst_view.xml"
+    },
+    {
+        "merged": "/home/anu/Downloads/AnuDashboardOfProcess/app/build/intermediates/res/merged/debug/layout/pref_item.xml",
+        "source": "/home/anu/Downloads/AnuDashboardOfProcess/app/src/main/res/layout/pref_item.xml"
+    },
+    {
+        "merged": "/home/anu/Downloads/AnuDashboardOfProcess/app/build/intermediates/res/merged/debug/layout/past_proc_list_view.xml",
+        "source": "/home/anu/Downloads/AnuDashboardOfProcess/app/src/main/res/layout/past_proc_list_view.xml"
+    },
+    {
+        "merged": "/home/anu/Downloads/QSystemInfo/app/build/intermediates/res/merged/debug/layout/pop_view.xml",
+        "source": "/home/anu/Downloads/QSystemInfo/app/src/main/res/layout/pop_view.xml"
+    },
+    {
+        "merged": "/home/anu/Downloads/AnuDashboardOfProcess/app/build/intermediates/res/merged/debug/layout/battery_item.xml",
+        "source": "/home/anu/Downloads/AnuDashboardOfProcess/app/src/main/res/layout/battery_item.xml"
+    },
+    {
+        "merged": "/home/anu/Downloads/AnuDashboardOfProcess/app/build/intermediates/res/merged/debug/layout/proc_item.xml",
+        "source": "/home/anu/Downloads/AnuDashboardOfProcess/app/src/main/res/layout/proc_item.xml"
+    },
+    {
+        "merged": "/home/anu/Downloads/QSystemInfo/app/build/intermediates/res/merged/debug/layout/log_item.xml",
+        "source": "/home/anu/Downloads/QSystemInfo/app/src/main/res/layout/log_item.xml"
+    },
+    {
+        "merged": "/home/anu/Downloads/AnuDashboardOfProcess/app/build/intermediates/res/merged/debug/layout/net_item.xml",
+        "source": "/home/anu/Downloads/AnuDashboardOfProcess/app/src/main/res/layout/net_item.xml"
+    },
+    {
+        "merged": "/home/anu/Downloads/QSystemInfo/app/build/intermediates/res/merged/debug/layout/past_proc_list_view.xml",
+        "source": "/home/anu/Downloads/QSystemInfo/app/src/main/res/layout/past_proc_list_view.xml"
+    },
+    {
+        "merged": "/home/anu/Downloads/AnuDashboardOfProcess/app/build/intermediates/res/merged/debug/layout/pop_view.xml",
+        "source": "/home/anu/Downloads/AnuDashboardOfProcess/app/src/main/res/layout/pop_view.xml"
+    },
+    {
+        "merged": "/home/anu/Downloads/QSystemInfo/app/build/intermediates/res/merged/debug/layout/send_item.xml",
+        "source": "/home/anu/Downloads/QSystemInfo/app/src/main/res/layout/send_item.xml"
+    },
+    {
+        "merged": "/home/anu/Downloads/AnuDashboardOfProcess/app/build/intermediates/res/merged/debug/layout/send_item.xml",
+        "source": "/home/anu/Downloads/AnuDashboardOfProcess/app/src/main/res/layout/send_item.xml"
+    },
+    {
+        "merged": "/home/anu/Downloads/AnuDashboardOfProcess/app/build/intermediates/res/merged/debug/layout/pub_info.xml",
+        "source": "/home/anu/Downloads/AnuDashboardOfProcess/app/src/main/res/layout/pub_info.xml"
+    },
+    {
+        "merged": "/home/anu/Downloads/QSystemInfo/app/build/intermediates/res/merged/debug/layout/battery_item.xml",
+        "source": "/home/anu/Downloads/QSystemInfo/app/src/main/res/layout/battery_item.xml"
+    },
+    {
+        "merged": "/home/anu/Downloads/QSystemInfo/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/anu/Downloads/QSystemInfo/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/anu/Downloads/AnuDashboardOfProcess/app/build/intermediates/res/merged/debug/layout/past_proc_list.xml",
+        "source": "/home/anu/Downloads/AnuDashboardOfProcess/app/src/main/res/layout/past_proc_list.xml"
+    },
+    {
+        "merged": "/home/anu/Downloads/AnuDashboardOfProcess/app/build/intermediates/res/merged/debug/layout/proc_lst_view.xml",
+        "source": "/home/anu/Downloads/AnuDashboardOfProcess/app/src/main/res/layout/proc_lst_view.xml"
+    },
+    {
+        "merged": "/home/anu/Downloads/QSystemInfo/app/build/intermediates/res/merged/debug/layout/net_item.xml",
+        "source": "/home/anu/Downloads/QSystemInfo/app/src/main/res/layout/net_item.xml"
+    },
+    {
+        "merged": "/home/anu/Downloads/AnuDashboardOfProcess/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/anu/Downloads/AnuDashboardOfProcess/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/anu/Downloads/AnuDashboardOfProcess/app/build/intermediates/res/merged/debug/layout/pref_header_item.xml",
+        "source": "/home/anu/Downloads/AnuDashboardOfProcess/app/src/main/res/layout/pref_header_item.xml"
+    },
+    {
+        "merged": "/home/anu/Downloads/QSystemInfo/app/build/intermediates/res/merged/debug/layout/widget.xml",
+        "source": "/home/anu/Downloads/QSystemInfo/app/src/main/res/layout/widget.xml"
+    },
+    {
+        "merged": "/home/anu/Downloads/QSystemInfo/app/build/intermediates/res/merged/debug/layout/app_item.xml",
+        "source": "/home/anu/Downloads/QSystemInfo/app/src/main/res/layout/app_item.xml"
+    },
+    {
+        "merged": "/home/anu/Downloads/QSystemInfo/app/build/intermediates/res/merged/debug/layout/pref_header_item.xml",
+        "source": "/home/anu/Downloads/QSystemInfo/app/src/main/res/layout/pref_header_item.xml"
+    },
+    {
+        "merged": "/home/anu/Downloads/AnuDashboardOfProcess/app/build/intermediates/res/merged/debug/layout/app_lst_view.xml",
+        "source": "/home/anu/Downloads/AnuDashboardOfProcess/app/src/main/res/layout/app_lst_view.xml"
+    },
+    {
+        "merged": "/home/anu/Downloads/QSystemInfo/app/build/intermediates/res/merged/debug/layout/pref_item.xml",
+        "source": "/home/anu/Downloads/QSystemInfo/app/src/main/res/layout/pref_item.xml"
+    },
+    {
+        "merged": "/home/anu/Downloads/AnuDashboardOfProcess/app/build/intermediates/res/merged/debug/layout/app_item.xml",
+        "source": "/home/anu/Downloads/AnuDashboardOfProcess/app/src/main/res/layout/app_item.xml"
+    },
+    {
+        "merged": "/home/anu/Downloads/QSystemInfo/app/build/intermediates/res/merged/debug/layout/app_lst_view.xml",
+        "source": "/home/anu/Downloads/QSystemInfo/app/src/main/res/layout/app_lst_view.xml"
+    },
+    {
+        "merged": "/home/anu/Downloads/AnuDashboardOfProcess/app/build/intermediates/res/merged/debug/layout/sensor_item.xml",
+        "source": "/home/anu/Downloads/AnuDashboardOfProcess/app/src/main/res/layout/sensor_item.xml"
+    },
+    {
+        "merged": "/home/anu/Downloads/AnuDashboardOfProcess/app/build/intermediates/res/merged/debug/layout/widget.xml",
+        "source": "/home/anu/Downloads/AnuDashboardOfProcess/app/src/main/res/layout/widget.xml"
+    },
+    {
+        "merged": "/home/anu/Downloads/QSystemInfo/app/build/intermediates/res/merged/debug/layout/pub_info.xml",
+        "source": "/home/anu/Downloads/QSystemInfo/app/src/main/res/layout/pub_info.xml"
+    },
+    {
+        "merged": "/home/anu/Downloads/AnuDashboardOfProcess/app/build/intermediates/res/merged/debug/layout/log_item.xml",
+        "source": "/home/anu/Downloads/AnuDashboardOfProcess/app/src/main/res/layout/log_item.xml"
+    },
+    {
+        "merged": "/home/anu/Downloads/QSystemInfo/app/build/intermediates/res/merged/debug/layout/proc_item.xml",
+        "source": "/home/anu/Downloads/QSystemInfo/app/src/main/res/layout/proc_item.xml"
+    }
+]

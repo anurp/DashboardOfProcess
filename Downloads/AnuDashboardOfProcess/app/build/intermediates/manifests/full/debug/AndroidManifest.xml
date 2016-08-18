@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.android.anu.dashboard"
+    android:installLocation="auto"
+    android:versionCode="75"
+    android:versionName="1.8.8" >
+
+    <uses-sdk
+        android:minSdkVersion="1"
+        android:targetSdkVersion="19" />
+
+    <uses-feature
+        android:name="android.hardware.wifi"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.touchscreen"
+        android:required="false" />
+
+    <uses-permission android:name="android.permission.GET_PACKAGE_SIZE" />
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.RESTART_PACKAGES" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_LOGS" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+
+    <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:resizeable="true"
+        android:smallScreens="true"
+        android:xlargeScreens="true" />
+
+    <application
+        android:hardwareAccelerated="true"
+        android:icon="@drawable/dashboard_icon"
+        android:label="Anu Dashboard Of Process" >
+        <activity
+            android:name="com.android.anu.dashboard.QSystemInfo"
+            android:configChanges="keyboardHidden|orientation"
+            android:label="Anu Dashboard Of Process" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.android.anu.dashboard.SysInfoManager"
+            android:configChanges="keyboardHidden|orientation" />
+        <activity
+            android:name="com.android.anu.dashboard.SysInfoManager$InfoSettings"
+            android:configChanges="keyboardHidden|orientation" />
+        <activity
+            android:name="com.android.anu.dashboard.LogViewer"
+            android:configChanges="keyboardHidden|orientation" />
+        <activity
+            android:name="com.android.anu.dashboard.LogViewer$LogSettings"
+            android:configChanges="keyboardHidden|orientation" />
+        <activity
+            android:name="com.android.anu.dashboard.ApplicationManager"
+            android:configChanges="keyboardHidden|orientation" />
+        <activity
+            android:name="com.android.anu.dashboard.ApplicationManager$AppSettings"
+            android:configChanges="keyboardHidden|orientation" />
+        <activity
+            android:name="com.android.anu.dashboard.ProcessManager"
+            android:configChanges="keyboardHidden|orientation" />
+        <activity
+            android:name="com.android.anu.dashboard.ProcessManager$ProcessSettings"
+            android:configChanges="keyboardHidden|orientation" />
+        <activity
+            android:name="com.android.anu.dashboard.PastProcessManager"
+            android:configChanges="keyboardHidden|orientation" />
+        <activity
+            android:name="com.android.anu.dashboard.PastProcessManager$ProcessSettings"
+            android:configChanges="keyboardHidden|orientation" />
+        <activity
+            android:name="com.android.anu.dashboard.NetStateManager"
+            android:configChanges="keyboardHidden|orientation" />
+        <activity
+            android:name="com.android.anu.dashboard.NetStateManager$NetStateSettings"
+            android:configChanges="keyboardHidden|orientation" />
+        <activity
+            android:name="com.android.anu.dashboard.BatteryInfoActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:theme="@android:style/Theme.Dialog" />
+        <activity
+            android:name="com.android.anu.dashboard.SensorInfoActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:theme="@android:style/Theme.Dialog" />
+        <activity
+            android:name="com.android.anu.dashboard.CpuInfoActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:theme="@android:style/Theme.Dialog" />
+        <activity
+            android:name="com.android.anu.dashboard.MemInfoActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:theme="@android:style/Theme.Dialog" />
+        <activity
+            android:name="com.android.anu.dashboard.NetworkInfoActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:theme="@android:style/Theme.Dialog" />
+        <activity
+            android:name="com.android.anu.dashboard.RestoreAppActivity"
+            android:configChanges="keyboardHidden|orientation" />
+        <activity
+            android:name="com.android.anu.dashboard.RestoreAppActivity$RestoreAppSettings"
+            android:configChanges="keyboardHidden|orientation" />
+        <activity
+            android:name="com.android.anu.dashboard.QSystemInfo$ErrorReportActivity"
+            android:configChanges="keyboardHidden|orientation" />
+
+        <receiver
+            android:name="com.android.anu.dashboard.WidgetProvider"
+            android:label="@string/widget_bar_name" >
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/widget_bar_info" />
+        </receiver>
+        <receiver
+            android:name="com.android.anu.dashboard.WidgetProvider$TaskWidget"
+            android:icon="@drawable/end"
+            android:label="@string/task_widget_name" >
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/widget_info" />
+        </receiver>
+        <receiver android:name="com.android.anu.dashboard.WidgetProvider$InfoWidget" >
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/widget_info" />
+        </receiver>
+
+        <service android:name="com.android.anu.dashboard.WidgetProvider$EndTaskService" />
+
+        <receiver android:name="com.android.anu.dashboard.QSystemInfo$BootReceiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>

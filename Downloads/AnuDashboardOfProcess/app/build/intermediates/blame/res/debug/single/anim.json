@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/anu/Downloads/AnuDashboardOfProcess/app/build/intermediates/res/merged/debug/anim/footer_appear.xml",
+        "source": "/home/anu/Downloads/AnuDashboardOfProcess/app/src/main/res/anim/footer_appear.xml"
+    },
+    {
+        "merged": "/home/anu/Downloads/AnuDashboardOfProcess/app/build/intermediates/res/merged/debug/anim/footer_disappear.xml",
+        "source": "/home/anu/Downloads/AnuDashboardOfProcess/app/src/main/res/anim/footer_disappear.xml"
+    },
+    {
+        "merged": "/home/anu/Downloads/QSystemInfo/app/build/intermediates/res/merged/debug/anim/footer_appear.xml",
+        "source": "/home/anu/Downloads/QSystemInfo/app/src/main/res/anim/footer_appear.xml"
+    },
+    {
+        "merged": "/home/anu/Downloads/QSystemInfo/app/build/intermediates/res/merged/debug/anim/footer_disappear.xml",
+        "source": "/home/anu/Downloads/QSystemInfo/app/src/main/res/anim/footer_disappear.xml"
+    }
+]

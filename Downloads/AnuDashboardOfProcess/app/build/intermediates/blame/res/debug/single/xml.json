@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/anu/Downloads/AnuDashboardOfProcess/app/build/intermediates/res/merged/debug/xml/widget_bar_info.xml",
+        "source": "/home/anu/Downloads/AnuDashboardOfProcess/app/src/main/res/xml/widget_bar_info.xml"
+    },
+    {
+        "merged": "/home/anu/Downloads/AnuDashboardOfProcess/app/build/intermediates/res/merged/debug/xml/widget_info.xml",
+        "source": "/home/anu/Downloads/AnuDashboardOfProcess/app/src/main/res/xml/widget_info.xml"
+    },
+    {
+        "merged": "/home/anu/Downloads/QSystemInfo/app/build/intermediates/res/merged/debug/xml/widget_bar_info.xml",
+        "source": "/home/anu/Downloads/QSystemInfo/app/src/main/res/xml/widget_bar_info.xml"
+    },
+    {
+        "merged": "/home/anu/Downloads/QSystemInfo/app/build/intermediates/res/merged/debug/xml/widget_info.xml",
+        "source": "/home/anu/Downloads/QSystemInfo/app/src/main/res/xml/widget_info.xml"
+    },
+    {
+        "merged": "/home/anu/Downloads/QSystemInfo/app/build/intermediates/res/merged/debug/xml/main.xml",
+        "source": "/home/anu/Downloads/QSystemInfo/app/src/main/res/xml/main.xml"
+    },
+    {
+        "merged": "/home/anu/Downloads/AnuDashboardOfProcess/app/build/intermediates/res/merged/debug/xml/main.xml",
+        "source": "/home/anu/Downloads/AnuDashboardOfProcess/app/src/main/res/xml/main.xml"
+    }
+]
