@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/anu/AndroidStudioProjects/DBRoulette/app/build/intermediates/res/merged/debug/drawable/icon.png",
+        "source": "/home/anu/AndroidStudioProjects/DBRoulette/app/src/main/res/drawable/icon.png"
+    },
+    {
+        "merged": "/home/anu/AndroidStudioProjects/DropUpload/app/build/intermediates/res/merged/debug/drawable/icon.png",
+        "source": "/home/anu/AndroidStudioProjects/DropUpload/app/src/main/res/drawable/icon.png"
+    }
+]
