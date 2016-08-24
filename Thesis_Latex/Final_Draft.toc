@@ -1,0 +1,90 @@
+\contentsline {chapter}{Abstract}{i}
+\contentsline {chapter}{List of Figures}{vii}
+\contentsline {chapter}{List of Tables}{viii}
+\contentsline {chapter}{\numberline {1}Introduction}{1}
+\contentsline {section}{\numberline {1.1}Objective}{2}
+\contentsline {section}{\numberline {1.2}Problem Statement}{2}
+\contentsline {section}{\numberline {1.3}Organization}{3}
+\contentsline {chapter}{\numberline {2}Background}{4}
+\contentsline {section}{\numberline {2.1}Android OS}{4}
+\contentsline {subsection}{\numberline {2.1.1}Structural Overview}{4}
+\contentsline {section}{\numberline {2.2}Processes in Linux and Android}{6}
+\contentsline {subsection}{\numberline {2.2.1}What is a Process?}{6}
+\contentsline {subsection}{\numberline {2.2.2}Difference between Program and Process}{6}
+\contentsline {subsection}{\numberline {2.2.3}Properties of a Process}{6}
+\contentsline {subsection}{\numberline {2.2.4}Process in Memory}{7}
+\contentsline {subsection}{\numberline {2.2.5}Process Control Block}{8}
+\contentsline {subsection}{\numberline {2.2.6}Process Vs Threads}{8}
+\contentsline {subsection}{\numberline {2.2.7}Process States}{9}
+\contentsline {subsection}{\numberline {2.2.8}Processes in Android}{10}
+\contentsline {subsection}{\numberline {2.2.9}Applications and Task}{11}
+\contentsline {subsection}{\numberline {2.2.10}Native Process Vs Android Application}{12}
+\contentsline {subsection}{\numberline {2.2.11}Components in Android Lifecycle}{12}
+\contentsline {subsection}{\numberline {2.2.12}Current Process and Past Process}{13}
+\contentsline {section}{\numberline {2.3}/procfs file system}{14}
+\contentsline {subsection}{\numberline {2.3.1}Numbered Files within /proc directory}{15}
+\contentsline {subsection}{\numberline {2.3.2}Files in /proc directory}{15}
+\contentsline {subsection}{\numberline {2.3.3}Sysfs File System}{16}
+\contentsline {section}{\numberline {2.4}System Calls in Linux}{17}
+\contentsline {subsection}{\numberline {2.4.1}System Calls Related with Process Management}{17}
+\contentsline {subsection}{\numberline {2.4.2}File Management Related System Calls}{18}
+\contentsline {subsection}{\numberline {2.4.3}Network Connection Related System Calls}{18}
+\contentsline {section}{\numberline {2.5}Strace}{19}
+\contentsline {subsection}{\numberline {2.5.1}Options}{19}
+\contentsline {subsection}{\numberline {2.5.2}Some Problems in Strace}{20}
+\contentsline {section}{\numberline {2.6}ltrace}{20}
+\contentsline {subsection}{\numberline {2.6.1}Debugging a program with ltrace}{21}
+\contentsline {section}{\numberline {2.7}Strace and ltrace comparision}{22}
+\contentsline {section}{\numberline {2.8}Cloud Upload}{23}
+\contentsline {subsection}{\numberline {2.8.1}Types Of Cloud Storage}{23}
+\contentsline {chapter}{\numberline {3}Provenance of a Process}{25}
+\contentsline {section}{\numberline {3.1}Provenance of a Process}{25}
+\contentsline {section}{\numberline {3.2}Method}{25}
+\contentsline {subsection}{\numberline {3.2.1}Past Process}{26}
+\contentsline {subsection}{\numberline {3.2.2}Current Process}{26}
+\contentsline {chapter}{\numberline {4}Problem Solution Architecture}{28}
+\contentsline {section}{\numberline {4.1}Strace in Android}{28}
+\contentsline {section}{\numberline {4.2}Filtering Strace Output}{29}
+\contentsline {section}{\numberline {4.3}Disadvantages Of Using JNI}{29}
+\contentsline {section}{\numberline {4.4}Storage}{30}
+\contentsline {chapter}{\numberline {5}Implementation and Results}{31}
+\contentsline {section}{\numberline {5.1}APK Created}{31}
+\contentsline {subsection}{\numberline {5.1.1}Past Process}{32}
+\contentsline {subsection}{\numberline {5.1.2}Basic Info}{33}
+\contentsline {subsection}{\numberline {5.1.3}Application}{35}
+\contentsline {subsection}{\numberline {5.1.4}Processes}{36}
+\contentsline {subsection}{\numberline {5.1.5}Net Stats}{37}
+\contentsline {section}{\numberline {5.2}Details of the APK}{38}
+\contentsline {section}{\numberline {5.3}Link to source code}{38}
+\contentsline {chapter}{\numberline {6}Methods Used}{39}
+\contentsline {section}{\numberline {6.1}Running Process Details}{39}
+\contentsline {section}{\numberline {6.2}Retrieving Application Details}{40}
+\contentsline {section}{\numberline {6.3}Retrieving Network Connection Related Information}{40}
+\contentsline {section}{\numberline {6.4}Battery Information Of The Device}{42}
+\contentsline {section}{\numberline {6.5}Cloud Upload Of Log Files}{43}
+\contentsline {subsection}{\numberline {6.5.1}Upload Module}{44}
+\contentsline {subsection}{\numberline {6.5.2}Download Module}{44}
+\contentsline {subsection}{\numberline {6.5.3}Deleting Files After Cloud Upload}{44}
+\contentsline {section}{\numberline {6.6}Strace for all running processes}{44}
+\contentsline {section}{\numberline {6.7}Getting The File Related Details From Strace Output}{45}
+\contentsline {section}{\numberline {6.8}Getting the Network Connection Related Details From Strace Output}{46}
+\contentsline {chapter}{\numberline {7}Related Work}{47}
+\contentsline {section}{\numberline {7.1}OS Monitor - A Case Study}{47}
+\contentsline {section}{\numberline {7.2}Network Monitoring and Filtering}{48}
+\contentsline {section}{\numberline {7.3}Process Authentication}{49}
+\contentsline {section}{\numberline {7.4}Android malware detection through kernel behavior analysis}{51}
+\contentsline {section}{\numberline {7.5}Malware analysis through system call monitor and analysis}{52}
+\contentsline {section}{\numberline {7.6}Malware Analysis - a dynamic way}{53}
+\contentsline {section}{\numberline {7.7}System call anlaysis for malicious behavior}{54}
+\contentsline {chapter}{\numberline {8}Evaluation}{56}
+\contentsline {section}{\numberline {8.1}Usage of Extracted Data}{56}
+\contentsline {section}{\numberline {8.2}Strace of Running Process}{56}
+\contentsline {section}{\numberline {8.3}Encrypting the Strace Log Files}{57}
+\contentsline {section}{\numberline {8.4}Performance}{57}
+\contentsline {chapter}{\numberline {9}Conclusion and Future Work}{58}
+\contentsline {section}{\numberline {9.1}Future Work}{58}
+\contentsline {chapter}{Appendix}{60}
+\contentsline {chapter}{\numberline {A}Creating an app console in Dropbox}{60}
+\contentsline {section}{\numberline {A.1}Creating an app console in Dropbox}{60}
+\contentsline {chapter}{\textbf {References}}{63}
+\contentsfinish 

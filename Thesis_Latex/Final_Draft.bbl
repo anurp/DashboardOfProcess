@@ -1,0 +1,112 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citeauthoryear{Almohri, Yao, and Kafura}{Almohri
+  et~al\mbox{.}}{2014}]{almohri2014}
+{\sc Almohri, H.~M.}, {\sc Yao, D.~D.}, {\sc and} {\sc Kafura, D.} 2014.
+\newblock {DroidBarrier}: Know what is executing on your {{Android}}.
+\newblock In {\em Proceedings of the 4th ACM conference on Data and application
+  security and privacy}. ACM, 257--264.
+\newblock \url{http://people.cs.vt.edu/danfeng/papers/spy008-almohri.pdf}.
+
+\bibitem[\protect\citeauthoryear{Burguera, Zurutuza, and
+  Nadjm-Tehrani}{Burguera et~al\mbox{.}}{2011}]{burguera2011crowdroid}
+{\sc Burguera, I.}, {\sc Zurutuza, U.}, {\sc and} {\sc Nadjm-Tehrani, S.} 2011.
+\newblock Crowdroid: behavior-based malware detection system for {A}ndroid.
+\newblock In {\em Proceedings of the 1st ACM workshop on Security and privacy
+  in smartphones and mobile devices}. ACM, 15--26.
+
+\bibitem[\protect\citeauthoryear{Elenkov}{Elenkov}{2014}]{elenkov2014android}
+{\sc Elenkov, N.} 2014.
+\newblock {\em Android Security Internals: An In-Depth Guide to Android's
+  Security Architecture}.
+\newblock No Starch Press.
+
+\bibitem[\protect\citeauthoryear{eolwral}{eolwral}{2015}]{OSMonitor}
+{\sc eolwral}. 2015.
+\newblock Os monitor.
+\newblock \url{ https://github.com/eolwral/OSMonitor}.
+
+\bibitem[\protect\citeauthoryear{Gehani and Tariq}{Gehani and
+  Tariq}{2012}]{gehani2012spade}
+{\sc Gehani, A.} {\sc and} {\sc Tariq, D.} 2012.
+\newblock Spade: support for provenance auditing in distributed environments.
+\newblock In {\em Proceedings of the 13th International Middleware Conference}.
+  Springer-Verlag New York, Inc., 101--120.
+
+\bibitem[\protect\citeauthoryear{George}{George}{2015}]{Nikhil2015}
+{\sc George, N.} 2015.
+\newblock Network ombudsman for {A}ndroid.
+\newblock M.S.\ thesis, Amrita Vishwa Vidyapeetham, Ettimadai, Tamil Nadu
+  641112, India.
+\newblock Advisor: Prabhaker Mateti.
+
+\bibitem[\protect\citeauthoryear{Google}{Google}{2016a}]{connectivitymanager}
+{\sc Google}. 2016a.
+\newblock Connectivity manager.
+\newblock
+  \url{https://developer.android.com/reference/android/net/ConnectivityManager.html}.
+
+\bibitem[\protect\citeauthoryear{Google}{Google}{2016b}]{wifimanager}
+{\sc Google}. 2016b.
+\newblock Wifi manager.
+\newblock
+  \url{https://developer.android.com/reference/android/net/wifi/WifiManager.html}.
+
+\bibitem[\protect\citeauthoryear{Gurung}{Gurung}{2015}]{androiddiagram}
+{\sc Gurung, P.} 2015.
+\newblock Android's architecture diagram.
+\newblock \url{http://newtechinfo.net/android-system-architecture/}.
+
+\bibitem[\protect\citeauthoryear{Inc}{Inc}{2015}]{dropboxcloud}
+{\sc Inc, D.} 2015.
+\newblock Dropbox cloud upload.
+\newblock \url{https://www.dropbox.com/developers-v1/core/start/android}.
+
+\bibitem[\protect\citeauthoryear{Isohara, Takemori, and Kubota}{Isohara
+  et~al\mbox{.}}{2011}]{isohara2011kernel}
+{\sc Isohara, T.}, {\sc Takemori, K.}, {\sc and} {\sc Kubota, A.} 2011.
+\newblock Kernel-based behavior analysis for {a}ndroid malware detection.
+\newblock In {\em Computational Intelligence and Security (CIS), 2011 Seventh
+  International Conference on}. IEEE, 1011--1015.
+
+\bibitem[\protect\citeauthoryear{Kerrisk}{Kerrisk}{2016}]{SystemCalls}
+{\sc Kerrisk, M.} 2016.
+\newblock System calls.
+\newblock \url{http://man7.org/linux/man-pages/man2/syscalls.2.html}.
+
+\bibitem[\protect\citeauthoryear{Kwong and Yin}{Kwong and
+  Yin}{2012}]{kwong2012droidscope}
+{\sc Kwong, L.} {\sc and} {\sc Yin, Y.~H.} 2012.
+\newblock Droidscope: seamlessly reconstructing the os and dalvik semantic
+  views for dynamic {A}ndroid malware analysis.
+
+\bibitem[\protect\citeauthoryear{Lin, Lai, Chen, and Tsai}{Lin
+  et~al\mbox{.}}{2013}]{lin2013identifying}
+{\sc Lin, Y.-D.}, {\sc Lai, Y.-C.}, {\sc Chen, C.-H.}, {\sc and} {\sc Tsai,
+  H.-C.} 2013.
+\newblock Identifying {A}ndroid malicious repackaged applications by
+  thread-grained system call sequences.
+\newblock {\em Computers and Security\/}~{\em 39}, 340--350.
+
+\bibitem[\protect\citeauthoryear{Linux Kernel~Organization}{Linux
+  Kernel~Organization}{2016}]{linuxkernelarchives}
+{\sc Linux Kernel~Organization, I.} 2016.
+\newblock The linux kernel archives.
+\newblock \url{https://www.kernel.org/}.
+
+\bibitem[\protect\citeauthoryear{Mateti, Aiyyappan, George, Kamardeen,
+  Sahadevan, and Shetti}{Mateti et~al\mbox{.}}{2015}]{Mateti}
+{\sc Mateti, P.}, {\sc Aiyyappan, P.}, {\sc George, N.}, {\sc Kamardeen, J.},
+  {\sc Sahadevan, A.~K.}, {\sc and} {\sc Shetti, P.} 2015.
+\newblock Design and construction of a new highly secure {Android} {ROM}.
+\newblock Tech. rep., Amrita Vishwa Vidyapeetham, Ettimadai, Tamil Nadu 641112,
+  India. 6.
+\newblock Advisor: Prabhaker Mateti;
+  \url{http://cecs.wright.edu/~pmateti/GradStudents/index.html}.
+
+\bibitem[\protect\citeauthoryear{Rusling}{Rusling}{1999}]{linuxprocesses}
+{\sc Rusling, D.~A.} 1996 - 1999.
+\newblock Linux processes.
+\newblock \url{http://www.tldp.org/LDP/tlk/kernel/processes.html}.
+
+\end{thebibliography}

@@ -1,0 +1,22 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: Final_Draft.aux
+The style file: LaTeX/acmtrans.bst
+Database file #1: report.bib
+Warning--entry type for "OSMonitor" isn't style-file defined
+--line 96 of file report.bib
+Repeated entry---line 122 of file report.bib
+ : @misc{osmonitor
+ :                ,
+I'm skipping whatever remains of this entry
+Warning--empty publisher in almohri2014
+Warning--empty address in almohri2014
+Warning--empty publisher in burguera2011crowdroid
+Warning--empty address in burguera2011crowdroid
+Warning--empty address in elenkov2014android
+Warning--empty publisher in gehani2012spade
+Warning--empty address in gehani2012spade
+Warning--empty publisher in isohara2011kernel
+Warning--empty address in isohara2011kernel
+Warning--no journal in kwong2012droidscope
+Warning--no number and no volume in kwong2012droidscope
+Warning--page numbers missing in kwong2012droidscope
+(There was 1 error message)

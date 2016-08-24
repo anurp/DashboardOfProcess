@@ -1,0 +1,818 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2015.8.11)  20 AUG 2016 14:02
+entering extended mode
+**Final_Draft.tex
+
+(D:\Android\Project_related_documents\Final_Report\Thesis_Latex\Final_Draft.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2009-06-19, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, lao, latin, lat
+vian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerm
+an, ngerman-x-2009-06-19, nynorsk, oriya, panjabi, pinyin, polish, portuguese, 
+romanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swis
+sgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, u
+senglishmax, welsh, loaded.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\report.cls"
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\titlesec\titletoc.sty"
+Package: titletoc 2011/12/15 v1.6 TOC entries
+\ttl@leftsep=\dimen103
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ntgclass\a4.sty"
+Package: a4 2004/04/15 v1.2g A4 based page layout
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2009/06/22 v3.00
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\@emptytoks=\toks14
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsmath.sty"
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks15
+\ex@=\dimen104
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen105
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen106
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks16
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks17
+\eqnshift@=\dimen107
+\alignsep@=\dimen108
+\tagshift@=\dimen109
+\tagwidth@=\dimen110
+\totwidth@=\dimen111
+\lineht@=\dimen112
+\@envbody=\toks18
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\jknappen\mathrsfs.sty"
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup6
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\dstroke\dsfont.sty"
+Package: dsfont 1995/08/01 v0.1 Double stroke roman fonts
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks20
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count100
+))
+\Gin@req@height=\dimen113
+\Gin@req@width=\dimen114
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\latexsym.sty"
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 47.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\dvips\rotate.sty"
+\rotdimen=\dimen115
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\classes\amsthm.sty"
+Package: amsthm 2004/08/06 v2.20
+\thm@style=\toks21
+\thm@bodyfont=\toks22
+\thm@headfont=\toks23
+\thm@notefont=\toks24
+\thm@headpunct=\toks25
+\thm@preskip=\skip46
+\thm@postskip=\skip47
+\thm@headsep=\skip48
+\dth@everypar=\toks26
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\epstopdf.sty"
+Package: epstopdf 2010/02/09 v2.5 Conversion with epstopdf on the fly (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2010/08/19 v1.1 Managing graphics extensions (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2011/04/07 v1.3 Defining keys (HO)
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2010/12/23 v3.10 Keyval support for LaTeX options (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2011/04/07 v1.13 Key value parser (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2011/02/16 v1.5 Prefix for e-TeX command names (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2011/04/22 v0.16 Utilities of pdfTeX for LuaTeX (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\natbib\natbib.sty"
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip49
+\bibsep=\skip50
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count101
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count102
+\float@exts=\toks27
+\float@box=\box28
+\@float@everytoks=\toks28
+\@floatcapt=\box29
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\tabularx.sty"
+Package: tabularx 1999/01/07 v2.07 `tabularx' package (DPC)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen116
+\extrarowheight=\dimen117
+\NC@list=\toks29
+\extratabsurround=\skip51
+\backup@length=\skip52
+)
+\TX@col@width=\dimen118
+\TX@old@table=\dimen119
+\TX@old@col=\dimen120
+\TX@target=\dimen121
+\TX@delta=\dimen122
+\TX@cols=\count103
+\TX@ftn=\toks30
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\setspace\setspace.sty"
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ltxmisc\url.sty"
+\Urlmuskip=\muskip11
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\listings.sty"
+\lst@mode=\count104
+\lst@gtempboxa=\box30
+\lst@token=\toks31
+\lst@length=\count105
+\lst@currlwidth=\dimen123
+\lst@column=\count106
+\lst@pos=\count107
+\lst@lostspace=\dimen124
+\lst@width=\dimen125
+\lst@newlines=\count108
+\lst@lineno=\count109
+\lst@maxwidth=\dimen126
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count110
+\lst@skipnumbers=\count111
+\lst@framebox=\box31
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\listings.cfg"
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2010/03/01 v1.5 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count112
+\Gm@cntv=\count113
+\c@Gm@tempcnt=\count114
+\Gm@bindingoffset=\dimen127
+\Gm@wd@mp=\dimen128
+\Gm@odd@mp=\dimen129
+\Gm@even@mp=\dimen130
+\Gm@layoutwidth=\dimen131
+\Gm@layoutheight=\dimen132
+\Gm@layouthoffset=\dimen133
+\Gm@layoutvoffset=\dimen134
+\Gm@dimlist=\toks32
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\nomencl\nomencl.sty"
+Package: nomencl 2005/09/22 v4.2 Nomenclature package (LN)
+\nomlabelwidth=\dimen135
+\nom@tempdim=\dimen136
+\nomitemsep=\skip53
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\textcomp.sty"
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 71.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ts1enc.def"
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 266.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 281.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 282.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 283.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 284.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 285.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 286.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 287.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 288.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 289.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 290.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 291.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 292.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 293.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 294.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 295.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 296.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 297.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 298.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 299.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 300.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 301.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 302.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 303.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 304.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 305.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 306.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 307.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 308.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 309.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 310.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 311.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 312.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 313.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 314.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 315.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 316.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 317.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 318.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 319.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 320.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 321.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 322.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 323.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 324.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 325.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 326.
+)
+LaTeX Font Info:    Redeclaring math alphabet \mathpzc on input line 59.
+LaTeX Font Info:    Overwriting math alphabet `\mathpzc' in version `normal'
+(Font)                  OT1/pzc/m/it --> OT1/pzc/m/it on input line 59.
+LaTeX Font Info:    Overwriting math alphabet `\mathpzc' in version `bold'
+(Font)                  OT1/pzc/m/it --> OT1/pzc/m/it on input line 59.
+
+(D:\Android\Project_related_documents\Final_Report\Thesis_Latex\Final_Draft.aux
+)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 61.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 61.
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
+File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 61.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count115
+\scratchdimen=\dimen137
+\scratchbox=\box32
+\nofMPsegments=\count116
+\nofMParguments=\count117
+\everyMPshowfont=\toks33
+\MPscratchCnt=\count118
+\MPscratchDim=\dimen138
+\MPnumerator=\count119
+\makeMPintoPDFobject=\count120
+\everyMPtoPDFconversion=\toks34
+)
+\c@lstlisting=\count121
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 443.57848pt, 85.35826pt)
+* v-part:(T,H,B)=(85.35826pt, 610.02708pt, 99.58464pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=443.57848pt
+* \textheight=610.02708pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-23.91173pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=57.81621pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<avvp_logo1.png, id=1, 76.03406pt x 88.07906pt>
+File: avvp_logo1.png Graphic file (type png)
+ <use avvp_logo1.png>
+Package pdftex.def Info: avvp_logo1.png used on input line 105.
+(pdftex.def)             Requested size: 76.03386pt x 88.07883pt.
+ [1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <D:/Android/Project_relate
+d_documents/Final_Report/Thesis_Latex/avvp_logo1.png>]
+File: avvp_logo1.png Graphic file (type png)
+ <use avvp_logo1.png>
+Package pdftex.def Info: avvp_logo1.png used on input line 182.
+(pdftex.def)             Requested size: 76.03386pt x 88.07883pt.
+ [2
+
+]
+File: avvp_logo1.png Graphic file (type png)
+
+<use avvp_logo1.png>
+Package pdftex.def Info: avvp_logo1.png used on input line 219.
+(pdftex.def)             Requested size: 76.03386pt x 88.07883pt.
+
+Underfull \hbox (badness 2005) in paragraph at lines 228--230
+\OT1/cmr/m/n/12 This is to cer-tify that this dis-ser-ta-tion en-ti-tled \OT1/c
+mr/bx/n/12 ``An-droid Dash-board for
+ []
+
+
+Underfull \hbox (badness 3229) in paragraph at lines 228--230
+\OT1/cmr/bx/n/12 Past and Present Pro-cesses'' \OT1/cmr/m/n/12 sub-mit-ted by \
+OT1/cmr/bx/n/12 R.ANUSUYA (Reg.No :
+ []
+
+[3
+
+] [4
+
+]
+\c@thm=\count122
+\c@pro=\count123
+\c@lemma=\count124
+\c@defn=\count125
+ [1
+
+
+]
+(D:\Android\Project_related_documents\Final_Report\Thesis_Latex\Final_Draft.toc
+
+Overfull \hbox (0.16266pt too wide) detected at line 3
+ \OT1/cmr/bx/n/12 viii
+ []
+
+LaTeX Font Info:    Try loading font information for U+msa on input line 5.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 5.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 5.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\jknappen\ursfs.fd"
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+LaTeX Font Info:    Try loading font information for U+lasy on input line 5.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ulasy.fd"
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+) [2
+
+] [3] [4]
+[5])
+\tf@toc=\write3
+ [6]
+(D:\Android\Project_related_documents\Final_Report\Thesis_Latex\Final_Draft.lof
+)
+\tf@lof=\write4
+ [7
+
+]
+(D:\Android\Project_related_documents\Final_Report\Thesis_Latex\Final_Draft.lot
+)
+\tf@lot=\write5
+ [8
+
+]
+Chapter 1.
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+[1
+
+
+] [2] [3]
+Chapter 2.
+<2.png, id=57, 465.23813pt x 322.95656pt>
+File: 2.png Graphic file (type png)
+ <use 2.png>
+Package pdftex.def Info: 2.png used on input line 456.
+(pdftex.def)             Requested size: 443.59227pt x 284.54266pt.
+ [4
+
+] [5 <D:/Android/Project_related_documents/Final_Report/Thesis_Latex/2.png>] [6
+] [7] [8]
+<process_states.png, id=75, 623.32875pt x 332.74312pt>
+File: process_states.png Graphic file (type png)
+
+<use process_states.png>
+Package pdftex.def Info: process_states.png used on input line 521.
+(pdftex.def)             Requested size: 426.7969pt x 199.17014pt.
+ [9 <D:/Android/Project_related_documents/Final_Report/Thesis_Latex/process_sta
+tes.png>]
+Overfull \hbox (5.12799pt too wide) in paragraph at lines 538--539
+[]\OT1/cmr/m/n/12 The man-i-fest en-try for com-po-nent el-e-ments - Ac-tiv-ity
+, Ser-vice, Re-ceiver, and Provider
+ []
+
+[10] [11] [12]
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+ [13] [14] [15] [16] [17] [18]
+Overfull \hbox (28.24747pt too wide) in paragraph at lines 726--742
+ [][] 
+ []
+
+[19] [20]
+LaTeX Font Info:    Try loading font information for TS1+cmtt on input line 786
+.
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ts1cmtt.fd"
+File: ts1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+[21] <lib_sys_calls.png, id=119, 325.215pt x 95.6072pt>
+File: lib_sys_calls.png Graphic file (type png)
+
+<use lib_sys_calls.png>
+Package pdftex.def Info: lib_sys_calls.png used on input line 825.
+(pdftex.def)             Requested size: 284.54753pt x 142.28273pt.
+ [22 <D:/Android/Project_related_documents/Final_Report/Thesis_Latex/lib_sys_ca
+lls.png>] [23] [24]
+Chapter 3.
+[25
+
+] <Archi_jul11.png, id=134, 623.32875pt x 332.74312pt>
+File: Archi_jul11.png Graphic file (type png)
+
+<use Archi_jul11.png>
+Package pdftex.def Info: Archi_jul11.png used on input line 881.
+(pdftex.def)             Requested size: 426.7969pt x 313.00195pt.
+ [26] [27 <D:/Android/Project_related_documents/Final_Report/Thesis_Latex/Archi
+_jul11.png>]
+Chapter 4.
+[28
+
+] [29] [30]
+Chapter 5.
+<tabs.png, id=151, 361.35pt x 106.14656pt>
+File: tabs.png Graphic file (type png)
+ <use tabs.png>
+Package pdftex.def Info: tabs.png used on input line 955.
+(pdftex.def)             Requested size: 284.53156pt x 56.90527pt.
+ [31
+
+ <D:/Android/Project_related_documents/Final_Report/Thesis_Latex/tabs.png>]
+<past_process_list.png, id=157, 481.8pt x 803.0pt>
+File: past_process_list.png Graphic file (type png)
+ <use past_process_list.png>
+Package pdftex.def Info: past_process_list.png used on input line 973.
+(pdftex.def)             Requested size: 142.26208pt x 199.1689pt.
+
+<past.png, id=158, 542.025pt x 963.6pt>
+File: past.png Graphic file (type png)
+ <use past.png>
+Package pdftex.def Info: past.png used on input line 979.
+(pdftex.def)             Requested size: 142.26302pt x 199.15665pt.
+ [32 <D:/Android/Project_related_documents/Final_Report/Thesis_Latex/past_proce
+ss_list.png>]
+<storage.png, id=162, 542.025pt x 963.6pt>
+File: storage.png Graphic file (type png)
+ <use storage.png>
+Package pdftex.def Info: storage.png used on input line 987.
+(pdftex.def)             Requested size: 142.26302pt x 199.15665pt.
+
+<battery_details.png, id=163, 361.35pt x 602.25pt>
+File: battery_details.png Graphic file (type png)
+ <use battery_details.png>
+Package pdftex.def Info: battery_details.png used on input line 993.
+(pdftex.def)             Requested size: 142.26578pt x 199.16583pt.
+
+[33 <D:/Android/Project_related_documents/Final_Report/Thesis_Latex/past.png> <
+D:/Android/Project_related_documents/Final_Report/Thesis_Latex/storage.png>]
+<processor_details.png, id=167, 481.8pt x 803.0pt>
+File: processor_details.png Graphic file (type png)
+ <use processor_details.png>
+Package pdftex.def Info: processor_details.png used on input line 999.
+(pdftex.def)             Requested size: 142.26208pt x 199.1689pt.
+
+<application_list.png, id=168, 361.35pt x 602.25pt>
+File: application_list.png Graphic file (type png)
+ <use application_list.png>
+Package pdftex.def Info: application_list.png used on input line 1006.
+(pdftex.def)             Requested size: 142.26578pt x 199.16583pt.
+
+[34 <D:/Android/Project_related_documents/Final_Report/Thesis_Latex/battery_det
+ails.png> <D:/Android/Project_related_documents/Final_Report/Thesis_Latex/proce
+ssor_details.png>] <application_details.png, id=173, 361.35pt x 602.25pt>
+File: application_details.png Graphic file (type png)
+
+<use application_details.png>
+Package pdftex.def Info: application_details.png used on input line 1012.
+(pdftex.def)             Requested size: 142.26578pt x 199.16583pt.
+ <Process_list.png, id=174, 481.8pt x 803.0pt>
+File: Process_list.png Graphic file (type png)
+
+<use Process_list.png>
+Package pdftex.def Info: Process_list.png used on input line 1019.
+(pdftex.def)             Requested size: 142.26208pt x 199.1689pt.
+ [35 <D:/Android/Project_related_documents/Final_Report/Thesis_Latex/applicatio
+n_list.png> <D:/Android/Project_related_documents/Final_Report/Thesis_Latex/app
+lication_details.png>]
+<process_details.png, id=180, 361.35pt x 602.25pt>
+File: process_details.png Graphic file (type png)
+ <use process_details.png>
+Package pdftex.def Info: process_details.png used on input line 1024.
+(pdftex.def)             Requested size: 142.26578pt x 199.16583pt.
+
+[36 <D:/Android/Project_related_documents/Final_Report/Thesis_Latex/Process_lis
+t.png> <D:/Android/Project_related_documents/Final_Report/Thesis_Latex/process_
+details.png>] <network_details.png, id=185, 361.35pt x 602.25pt>
+File: network_details.png Graphic file (type png)
+
+<use network_details.png>
+Package pdftex.def Info: network_details.png used on input line 1032.
+(pdftex.def)             Requested size: 142.26578pt x 199.16583pt.
+
+<nw_connection_details.png, id=186, 481.8pt x 803.0pt>
+File: nw_connection_details.png Graphic file (type png)
+
+<use nw_connection_details.png>
+Package pdftex.def Info: nw_connection_details.png used on input line 1038.
+(pdftex.def)             Requested size: 142.26208pt x 199.1689pt.
+ [37 <D:/Android/Project_related_documents/Final_Report/Thesis_Latex/network_de
+tails.png>]
+Overfull \hbox (166.31891pt too wide) in paragraph at lines 1063--1065
+\OT1/cmr/m/n/12 The source code of the project is avail-able in the fol-low-ing
+ link. http://www.github.com/anurp/AnuDashboardOfProcess 
+ []
+
+[38 <D:/Android/Project_related_documents/Final_Report/Thesis_Latex/nw_connecti
+on_details.png>]
+Chapter 6.
+[39
+
+] [40] [41] [42] [43] [44] [45] [46]
+Chapter 7.
+[47
+
+] <os_mon.png, id=223, 481.8pt x 803.0pt>
+File: os_mon.png Graphic file (type png)
+ <use os_mon.png>
+Package pdftex.def Info: os_mon.png used on input line 1338.
+(pdftex.def)             Requested size: 142.26208pt x 199.1689pt.
+ [48 <D:/Android/Project_related_documents/Final_Report/Thesis_Latex/os_mon.png
+>] [49] [50]
+[51] [52]
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+ [53] [54] [55]
+Chapter 8.
+[56
+
+] [57]
+Chapter 9.
+
+Overfull \hbox (196.78572pt too wide) in paragraph at lines 1482--1483
+[]\OT1/cmr/m/n/12 The source code and re-lated doc-u-ments of this the-sis is a
+vail-able in the link https://github.com/anurp/DashboardOfProcess 
+ []
+
+[58
+
+] [59]
+Appendix A.
+Missing character: There is no â in font cmtt8!
+Missing character: There is no € in font cmtt8!
+Missing character: There is no ™ in font cmtt8!
+Missing character: There is no â in font cmtt8!
+Missing character: There is no € in font cmtt8!
+Missing character: There is no ™ in font cmtt8!
+Missing character: There is no â in font cmtt8!
+Missing character: There is no € in font cmtt8!
+Missing character: There is no ™ in font cmtt8!
+Missing character: There is no â in font cmtt8!
+Missing character: There is no € in font cmtt8!
+Missing character: There is no ™ in font cmtt8!
+[60
+
+] [61] [62]
+Missing character: There is no â in font cmtt8!
+Missing character: There is no € in font cmtt8!
+Missing character: There is no ™ in font cmtt8!
+
+(D:\Android\Project_related_documents\Final_Report\Thesis_Latex\Final_Draft.bbl
+[63] [64
+
+]
+Underfull \hbox (badness 2486) in paragraph at lines 44--48
+[]\OT1/cmr/m/sc/12 Google\OT1/cmr/m/n/12 . 2016a.  Con-nec-tiv-ity man-ager.  $
+\OT1/cmtt/m/n/12 https : / / developer . android . com /$
+ []
+
+[65]) [66]
+(D:\Android\Project_related_documents\Final_Report\Thesis_Latex\Final_Draft.aux
+) ) 
+Here is how much of TeX's memory you used:
+ 6127 strings out of 494049
+ 85827 string characters out of 3146068
+ 305709 words of memory out of 3000000
+ 9247 multiletter control sequences out of 15000+200000
+ 13199 words of font info for 52 fonts, out of 3000000 for 9000
+ 715 hyphenation exceptions out of 8191
+ 42i,14n,35p,1394b,1469s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Sony\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
+tctt0800.pk> <C:\Users\Sony\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\e
+c\dpi600\tcrm1200.pk><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmbxti10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmcsc10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmr12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmti12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmtt12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+tt8.pfb>
+Output written on Final_Draft.pdf (78 pages, 1456191 bytes).
+PDF statistics:
+ 322 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 91 words of extra memory for PDF output out of 10000 (max. 10000000)
+
